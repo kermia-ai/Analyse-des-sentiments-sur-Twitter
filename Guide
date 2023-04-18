@@ -1,0 +1,3 @@
+Remplacez les valeurs 'your_consumer_key', 'your_consumer_secret', 'your_access_token', 'your_access_token_secret' et 'your_topic' par vos propres valeurs pour les clés et les sujets spécifiques que vous voulez suivre.
+
+Notez que ce code peut prendre du temps à s'exécuter, car il utilise un modèle de classification de texte pré-entraîné qui peut être assez lent. Il peut également nécessiter des autorisations supplémentaires de la part de Twitter pour accéder à l'API de flux en direct en temps réel.
